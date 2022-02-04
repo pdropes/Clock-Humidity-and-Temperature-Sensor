@@ -1,4 +1,4 @@
-# Clock,-Humidity-and-Temperature-Sensor
+# Clock, Humidity and Temperature Sensor
 Relógio com medição de temperatura e humidade relativa
 
 Descrição:
