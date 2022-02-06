@@ -1,3 +1,6 @@
+<img src="Images/CHT - UP.jpg" width=640>
+
+
 # Clock, Humidity and Temperature Sensor
 Relógio com medição de temperatura e humidade relativa
 
